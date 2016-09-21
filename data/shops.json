@@ -1,0 +1,626 @@
+{
+    "www.amazon.com": {
+        "languages": ["en"],
+        "countries": ["US"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-20"}
+    },
+    "www.amazon.com.au": {
+        "languages": ["en"],
+        "countries": ["AU"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.com.br": {
+        "languages": ["pt"],
+        "countries": ["BR"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.ca": {
+        "languages": ["en"],
+        "countries": ["CA"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk07-20"}
+    },
+    "www.amazon.cn": {
+        "languages": ["zh"],
+        "countries": ["CN"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.fr": {
+        "languages": ["fr"],
+        "countries": ["FR", "BE"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.de": {
+        "languages": ["de"],
+        "countries": ["DE"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk09-21"}
+    },
+    "www.amazon.in": {
+        "languages": ["en"],
+        "countries": ["IN"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.it": {
+        "languages": ["it"],
+        "countries": ["IT"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk0b-21"}
+    },
+    "www.amazon.co.jp": {
+        "languages": ["ja"],
+        "countries": ["JP"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.com.mx": {
+        "languages": ["es"],
+        "countries": ["MX"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.nl": {
+        "languages": ["nl"],
+        "countries": ["NL"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.amazon.es": {
+        "languages": ["es"],
+        "countries": ["ES"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk05-21"}
+    },
+    "www.amazon.co.uk": {
+        "languages": ["en"],
+        "countries": ["GB"],
+        "regions": ["world"],
+        "params": {"tag": "pickyvagabondtk-21"}
+    },
+    "www.asmc.de": {
+        "languages": ["en", "de", "fr", "ru", "es", "it"],
+        "countries": ["GB", "FR", "BE", "DE", "RU", "ES", "IT"],
+        "regions": ["world"]
+    },
+    "www.campz.at": {
+        "languages": ["de"],
+        "countries": ["AT"],
+        "regions": ["AT"]
+    },
+    "www.campz.ch": {
+        "languages": ["de"],
+        "countries": ["CH"],
+        "regions": ["CH"]
+    },
+    "www.campz.fr": {
+        "languages": ["fr"],
+        "countries": ["FR", "BE"],
+        "regions": ["FR", "BE"]
+    },
+    "www.campz.nl": {
+        "languages": ["nl"],
+        "countries": ["NL"],
+        "regions": ["NL"]
+    },
+    "www.campz.be": {
+        "languages": ["de"],
+        "countries": ["BE"],
+        "regions": ["BE"]
+    },
+    "www.campz.es": {
+        "languages": ["es"],
+        "countries": ["ES"],
+        "regions": ["ES"]
+    },
+    "www.campz.dk": {
+        "languages": ["da"],
+        "countries": ["DK"],
+        "regions": ["DK"]
+    },
+    "www.campz.de": {
+        "languages": ["de"],
+        "countries": ["DE"],
+        "regions": ["DE"]
+    },
+    "www.addnature.com": {
+        "languages": ["sv", "fi"],
+        "countries": ["SE", "FI"],
+        "regions": ["SE", "FI"]
+    },
+    "www.bergzeit.de": {
+        "languages": ["de"],
+        "countries": ["DE"],
+        "regions": ["DE"]
+    },
+    "www.bergzeit.at": {
+        "languages": ["de"],
+        "countries": ["AT"],
+        "regions": ["AT"]
+    },
+    "www.bergzeit.ch": {
+        "languages": ["de"],
+        "countries": ["CH"],
+        "regions": ["CH"]
+    },
+    "www.bergzeit.co.uk": {
+        "languages": ["en"],
+        "countries": ["GB"],
+        "regions": ["GB"]
+    },
+    "www.bergzeit.se": {
+        "languages": ["en"],
+        "countries": ["SE"],
+        "regions": ["SE"]
+    },
+    "www.bergzeit.no": {
+        "languages": ["en"],
+        "countries": ["NO"],
+        "regions": ["NO"]
+    },
+    "www.bergzeit.fi": {
+        "languages": ["en"],
+        "countries": ["FI"],
+        "regions": ["FI"]
+    },
+    "www.bergzeit.dk": {
+        "languages": ["en"],
+        "countries": ["DK"],
+        "regions": ["DK"]
+    },
+    "www.bergzeit.it": {
+        "languages": ["en"],
+        "countries": ["IT"],
+        "regions": ["IT"]
+    },
+    "www.bergzeit.fr": {
+        "languages": ["en"],
+        "countries": ["FR"],
+        "regions": ["FR"]
+    },
+    "www.bergzeit.pl": {
+        "languages": ["en"],
+        "countries": ["PL"],
+        "regions": ["PL"]
+    },
+    "www.bergzeit.cz": {
+        "languages": ["en"],
+        "countries": ["CZ"],
+        "regions": ["CZ"]
+    },
+    "www.bergzeit.nl": {
+        "languages": ["en"],
+        "countries": ["NL"],
+        "regions": ["NL"]
+    },
+    "www.bergzeit.be": {
+        "languages": ["en"],
+        "countries": ["BE"],
+        "regions": ["BE"]
+    },
+    "www.bikester.at": {
+        "languages": ["de"],
+        "countries": ["AT"],
+        "regions": ["AT"]
+    },
+    "www.bikester.ch": {
+        "languages": ["de"],
+        "countries": ["CH"],
+        "regions": ["CH"]
+    },
+    "www.bikester.fr": {
+        "languages": ["fr"],
+        "countries": ["FR", "BE"],
+        "regions": ["FR", "BE"]
+    },
+    "www.bikester.nl": {
+        "languages": ["nl"],
+        "countries": ["NL"],
+        "regions": ["NL"]
+    },
+    "www.bikester.be": {
+        "languages": ["de"],
+        "countries": ["BE"],
+        "regions": ["BE"]
+    },
+    "www.bikester.es": {
+        "languages": ["es"],
+        "countries": ["ES"],
+        "regions": ["ES"]
+    },
+    "www.bikester.dk": {
+        "languages": ["da"],
+        "countries": ["DK"],
+        "regions": ["DK"]
+    },
+    "www.bikester.fi": {
+        "languages": ["fi"],
+        "countries": ["FI"],
+        "regions": ["FI"]
+    },
+    "www.bikester.se": {
+        "languages": ["sv"],
+        "countries": ["SE"],
+        "regions": ["SE"]
+    },
+    "www.chainreactioncycles.com": {
+        "languages": ["de", "en", "es", "fr", "it", "pt", "ru", "ja"],
+        "countries": ["DE", "UK", "ES", "FR", "IT", "PT", "RU", "JA"],
+        "regions": ["world"]
+    },
+    "www.conrad.com": {
+        "languages": ["en", "de", "fr"],
+        "countries": ["US"],
+        "regions": ["world"]
+    },
+    "www.conrad.de": {
+        "languages": ["de"],
+        "countries": ["DE"],
+        "regions": ["DE"]
+    },
+    "www.conrad.at": {
+        "languages": ["at"],
+        "countries": ["AT"],
+        "regions": ["AT"]
+    },
+    "www.conrad.ch": {
+        "languages": ["de", "fr"],
+        "countries": ["CH"],
+        "regions": ["CH"]
+    },
+    "www.conrad.nl": {
+        "languages": ["nl"],
+        "countries": ["NL"],
+        "regions": ["NL"]
+    },
+    "www.conrad.be": {
+        "languages": ["nl"],
+        "countries": ["BE"],
+        "regions": ["BE"]
+    },
+    "www.conrad-electronic.co.uk": {
+        "languages": ["en"],
+        "countries": ["GB"],
+        "regions": ["GB"]
+    },
+    "www.conrad.fr": {
+        "languages": ["fr"],
+        "countries": ["FR"],
+        "regions": ["FR"]
+    },
+    "www.conrad.it": {
+        "languages": ["it"],
+        "countries": ["IT"],
+        "regions": ["IT"]
+    },
+    "www.conrad.se": {
+        "languages": ["sv"],
+        "countries": ["SE"],
+        "regions": ["SE"]
+    },
+    "www.conrad.dk": {
+        "languages": ["da"],
+        "countries": ["DK"],
+        "regions": ["DK"]
+    },
+    "www.conrad.pl": {
+        "languages": ["pl"],
+        "countries": ["PL"],
+        "regions": ["PL"]
+    },
+    "www.conrad.si": {
+        "languages": ["sl"],
+        "countries": ["SI"],
+        "regions": ["SI"]
+    },
+    "www.conrad.hr": {
+        "languages": ["hr"],
+        "countries": ["HR"],
+        "regions": ["HR"]
+    },
+    "www.conrad.cz": {
+        "languages": ["cs"],
+        "countries": ["CZ"],
+        "regions": ["CZ"]
+    },
+    "www.conrad.hu": {
+        "languages": ["hu"],
+        "countries": ["HU"],
+        "regions": ["HU"]
+    },
+    "www.cyclable.com": {
+        "languages": ["fr"],
+        "countries": ["FR", "BE", "CH"],
+        "regions": ["world"]
+    },
+    "www.fahrrad.de": {
+        "languages": ["de"],
+        "countries": ["DE"],
+        "regions": ["DE"]
+    },
+    "www.decathlon.com": {
+        "languages": ["en"],
+        "countries": ["US"],
+        "regions": ["world"]
+    },
+    "www.decathlon.com.au": {
+        "languages": ["en"],
+        "countries": ["AU"],
+        "regions": ["world"]
+    },
+    "www.decathlon.be": {
+        "languages": ["fr", "nl"],
+        "countries": ["BE"],
+        "regions": ["world"]
+    },
+    "www.decathlon.com.br": {
+        "languages": ["pt"],
+        "countries": ["BR"],
+        "regions": ["world"]
+    },
+    "www.decathlon.bg": {
+        "languages": ["bg"],
+        "countries": ["BG"],
+        "regions": ["world"]
+    },
+    "www.decathlon.ca": {
+        "languages": ["en"],
+        "countries": ["CA"],
+        "regions": ["world"]
+    },
+    "www.decathlon.com.cn": {
+        "languages": ["zh"],
+        "countries": ["CN"],
+        "regions": ["world"]
+    },
+    "www.decathlon.hr": {
+        "languages": ["hr"],
+        "countries": ["HR"],
+        "regions": ["world"]
+    },
+    "www.decathlon.cz": {
+        "languages": ["cs"],
+        "countries": ["CZ"],
+        "regions": ["world"]
+    },
+    "www.decathlon.fr": {
+        "languages": ["fr"],
+        "countries": ["FR"],
+        "regions": ["world"]
+    },
+    "www.decathlon.de": {
+        "languages": ["de"],
+        "countries": ["DE"],
+        "regions": ["world"]
+    },
+    "www.decathlon.co.hu": {
+        "languages": ["hu"],
+        "countries": ["HU"],
+        "regions": ["world"]
+    },
+    "www.decathlon.in": {
+        "languages": ["en"],
+        "countries": ["IN"],
+        "regions": ["world"]
+    },
+    "www.decathlon.asia": {
+        "languages": ["en"],
+        "countries": ["ID", "PH"],
+        "regions": ["world"]
+    },
+    "www.decathlon.it": {
+        "languages": ["it"],
+        "countries": ["IT"],
+        "regions": ["world"]
+    },
+    "www.decathlon.my": {
+        "languages": ["en"],
+        "countries": ["MY"],
+        "regions": ["world"]
+    },
+    "www.decathlon.nl": {
+        "languages": ["nl"],
+        "countries": ["NL"],
+        "regions": ["world"]
+    },
+    "www.decathlon.co.jp": {
+        "languages": ["ja"],
+        "countries": ["JP"],
+        "regions": ["world"]
+    },
+    "www.decathlon.com.mx": {
+        "languages": ["es"],
+        "countries": ["MX"],
+        "regions": ["world"]
+    },
+    "www.decathlon.pl": {
+        "languages": ["pl"],
+        "countries": ["PL"],
+        "regions": ["world"]
+    },
+    "www.decathlon.pt": {
+        "languages": ["pt"],
+        "countries": ["PT"],
+        "regions": ["world"]
+    },
+    "www.decathlon.ro": {
+        "languages": ["ro"],
+        "countries": ["RO"],
+        "regions": ["world"]
+    },
+    "www.decathlon.ru": {
+        "languages": ["ru"],
+        "countries": ["RU"],
+        "regions": ["world"]
+    },
+    "www.decathlon.sg": {
+        "languages": ["en"],
+        "countries": ["SG"],
+        "regions": ["world"]
+    },
+    "www.decathlon.es": {
+        "languages": ["es"],
+        "countries": ["ES"],
+        "regions": ["world"]
+    },
+    "www.decathlon.se": {
+        "languages": ["sv"],
+        "countries": ["SE"],
+        "regions": ["world"]
+    },
+    "www.decathlon.tw": {
+        "languages": ["zh"],
+        "countries": ["TW"],
+        "regions": ["world"]
+    },
+    "www.decathlon.co.th": {
+        "languages": ["th", "en"],
+        "countries": ["TH"],
+        "regions": ["world"]
+    },
+    "www.decathlon.com.tr": {
+        "languages": ["tr"],
+        "countries": ["TR"],
+        "regions": ["world"]
+    },
+    "www.decathlon.co.uk": {
+        "languages": ["en"],
+        "countries": ["GB"],
+        "regions": ["world"]
+    },
+    "www.gooutdoors.co.uk": {
+        "languages": ["en"],
+        "countries": ["AD", "AU", "AT", "BE", "BG", "CA", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GI", "GR", "HU", "IE", "IT", "LV", "LT", "LU", "MT", "MC", "NL", "NZ", "NO", "PL", "PT", "RO", "SM", "SK", "SI", "ES", "SE", "CH", "US"],
+        "regions": ["world"]
+    },
+    "www.halfords.com": {
+        "languages": ["en"],
+        "countries": ["GB"],
+        "regions": ["GB"]
+    },
+    "www.walmart.com": {
+        "languages": ["en"],
+        "countries": ["US"],
+        "regions": ["US"]
+    },
+    "www.wal-mart.com.ar": {
+        "languages": ["es"],
+        "countries": ["AR"],
+        "regions": ["AR"]
+    },
+    "www.walmartbrasil.com.br": {
+        "languages": ["pt"],
+        "countries": ["BR"],
+        "regions": ["BR"]
+    },
+    "www.walmart.ca": {
+        "languages": ["en", "fr"],
+        "countries": ["CA"],
+        "regions": ["CA"]
+    },
+    "www.wal-martchina.com": {
+        "languages": ["zh", "en"],
+        "countries": ["CN"],
+        "regions": ["CN"]
+    },
+    "www.the-seiyu.com": {
+        "languages": ["jp"],
+        "countries": ["JP"],
+        "regions": ["JP"]
+    },
+    "www.walmartmexico.com.mx": {
+        "languages": ["es"],
+        "countries": ["MX"],
+        "regions": ["MX"]
+    },
+    "www.walmartpr.com": {
+        "languages": ["es"],
+        "countries": ["PR"],
+        "regions": ["PR"]
+    },
+    "www.asda.com": {
+        "languages": ["en"],
+        "countries": ["GB"],
+        "regions": ["GB"]
+    },
+    "www.zalendo.de": {
+        "languages": ["de"],
+        "countries": ["DE"],
+        "regions": ["DE"]
+    },
+    "www.zalendo.at": {
+        "languages": ["at"],
+        "countries": ["AT"],
+        "regions": ["AT"]
+    },
+    "www.zalendo.ch": {
+        "languages": ["fr", "de"],
+        "countries": ["CH"],
+        "regions": ["CH"]
+    },
+    "www.zalendo.nl": {
+        "languages": ["nl"],
+        "countries": ["NL"],
+        "regions": ["NL"]
+    },
+    "www.zalendo.fr": {
+        "languages": ["fr"],
+        "countries": ["FR"],
+        "regions": ["FR"]
+    },
+    "www.zalendo.co.uk": {
+        "languages": ["en"],
+        "countries": ["GB"],
+        "regions": ["GB"]
+    },
+    "www.zalendo.it": {
+        "languages": ["it"],
+        "countries": ["IT"],
+        "regions": ["IT"]
+    },
+    "www.zalendo.be": {
+        "languages": ["fr", "nl"],
+        "countries": ["BE"],
+        "regions": ["BE", "LU"]
+    },
+    "www.zalendo.es": {
+        "languages": ["es"],
+        "countries": ["ES"],
+        "regions": ["ES"]
+    },
+    "www.zalendo.se": {
+        "languages": ["se"],
+        "countries": ["SE"],
+        "regions": ["SE"]
+    },
+    "www.zalendo.dk": {
+        "languages": ["da"],
+        "countries": ["DK"],
+        "regions": ["DK"]
+    },
+    "www.zalendo.fi": {
+        "languages": ["fi"],
+        "countries": ["FI"],
+        "regions": ["FI"]
+    },
+    "www.zalendo.no": {
+        "languages": ["no"],
+        "countries": ["NO"],
+        "regions": ["NO"]
+    },
+    "www.zalendo.pl": {
+        "languages": ["pl"],
+        "countries": ["PL"],
+        "regions": ["PL"]
+    },
+    "www.zalendo.lu": {
+        "languages": ["fr"],
+        "countries": ["LU"],
+        "regions": ["LU"]
+    }
+}

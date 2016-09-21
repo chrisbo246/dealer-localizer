@@ -1,0 +1,37 @@
+{
+	"amazon": {
+		"hostSearchPattern": "^www\\.amazon\\.",
+		"urlSearchPattern": "^(https?:\\/\\/www\\.amazon\\.[a-z.]+)(((?!\\/dp\\/).)*)(\\/dp\\/|\\/gp\\/product\\/)([0-9A-Za-z]+).*$",
+		"urlReplacePattern": "$1$4$5"
+	},
+	"bergzeit": {
+		"hostSearchPattern": "^www\\.bergzeit\\.",
+		"urlSearchPattern": "^(https?:\\/\\/www\\.bergzeit\\.[a-z.]+\\/)(.+)$",
+		"urlReplacePattern": "$1$2"
+	},
+	"bikester": {
+		"hostSearchPattern": "^www\\.(bikester\\.|fahrrad.de)",
+		"urlSearchPattern": "^(https?:\\/\\/www\\.(bikester\\.[a-z.]+|fahrrad.de)\\/)(((?![0-9]+\\.html).)+)([0-9]+)\\.html$",
+		"urlReplacePattern": "$1$5"
+	},
+	"campz": {
+		"hostSearchPattern": "^www\\.campz\\.",
+		"urlSearchPattern": "^(https?:\\/\\/www\\.campz\\.[a-z.]+\\/)(((?![0-9]+\\.html).)+)([0-9]+)\\.html$",
+		"urlReplacePattern": "$1$4"
+	},
+	"conrad": {
+		"hostSearchPattern": "^www\\.(conrad\\.|conrad-electronic\\.co\\.uk)",
+		"urlSearchPattern": "^(https?:\\/\\/www\\.(conrad\\.[a-z.]+|conrad-electronic\\.co\\.uk)\\/ce\\/)[a-z]{2}\\/product\\/([0-9]+)\\/.*$",
+		"urlReplacePattern": "$1Search.html?search=$3"
+	},
+	"decathlon": {
+		"hostSearchPattern": "^www\\.decathlon\\.",
+		"urlSearchPattern": "^(https?:\\/\\/www\\.decathlon\\.[a-z.]+\\/)(.+)$",
+		"urlReplacePattern": "$1$2"
+	},
+	"zalando": {
+		"hostSearchPattern": "^www\\.zalando\\.",
+		"urlSearchPattern": "^(https?:\\/\\/)[a-z]{2,3}(\\.zalando\\.[a-z.]+\\/)(((?![a-z0-9-]{13}\\.html).)+)([a-z0-9-]{13})\\.html$",
+		"urlReplacePattern": "$1www$2?q=$5"
+	}
+}
